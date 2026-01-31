@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "697e58a124f480d2443a5c65",
+    "name": "Admin Alice",
+    "email": "alice@smartalloc.com",
+    "role": "Super User",
+    "department": "IT",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c66",
+    "name": "Admin Bob",
+    "email": "bob@smartalloc.com",
+    "role": "Super User",
+    "department": "Operations",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c67",
+    "name": "Admin Charlie",
+    "email": "charlie@smartalloc.com",
+    "role": "Super User",
+    "department": "Facilities",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c68",
+    "name": "Admin Diana",
+    "email": "diana@smartalloc.com",
+    "role": "Super User",
+    "department": "HR",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c69",
+    "name": "Admin Eve",
+    "email": "eve@smartalloc.com",
+    "role": "Super User",
+    "department": "Security",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c6a",
+    "name": "User Frank",
+    "email": "frank@smartalloc.com",
+    "role": "User",
+    "department": "Marketing",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c6b",
+    "name": "User Grace",
+    "email": "grace@smartalloc.com",
+    "role": "User",
+    "department": "Sales",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c6c",
+    "name": "User Heidi",
+    "email": "heidi@smartalloc.com",
+    "role": "User",
+    "department": "Engineering",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c6d",
+    "name": "User Ivan",
+    "email": "ivan@smartalloc.com",
+    "role": "User",
+    "department": "Design",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  },
+  {
+    "_id": "697e58a124f480d2443a5c6e",
+    "name": "User Judy",
+    "email": "judy@smartalloc.com",
+    "role": "User",
+    "department": "Support",
+    "password": "$2b$10$.BTBmmRCtaJ36.qin/34jOrxdQaOooanzbS4afEJ4VcXThBesLJC2",
+    "status": "active",
+    "createdAt": "2026-01-31T19:31:45.197Z"
+  }
+]

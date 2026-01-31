@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Room 101 (The Aquarium)",
+    "type": "Meeting Room",
+    "description": "Glass-walled meeting room, 6 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c70",
+    "__v": 0
+  },
+  {
+    "name": "Room 102 (The Cave)",
+    "type": "Meeting Room",
+    "description": "Quiet room with soundproofing, 4 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c71",
+    "__v": 0
+  },
+  {
+    "name": "Room 201 (Brainstorm)",
+    "type": "Meeting Room",
+    "description": "Whiteboards on all walls, 8 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c72",
+    "__v": 0
+  },
+  {
+    "name": "Room 202 (Focus)",
+    "type": "Meeting Room",
+    "description": "Small huddle room, 3 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c73",
+    "__v": 0
+  },
+  {
+    "name": "Executive Boardroom",
+    "type": "Conference Hall",
+    "description": "Premium leather seats, VC system, 20 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c74",
+    "__v": 0
+  },
+  {
+    "name": "Training Hall A",
+    "type": "Conference Hall",
+    "description": "Classroom setup, 50 seats, projector",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c75",
+    "__v": 0
+  },
+  {
+    "name": "Training Hall B",
+    "type": "Conference Hall",
+    "description": "Round table setup, 40 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c76",
+    "__v": 0
+  },
+  {
+    "name": "MacBook Pro #01",
+    "type": "Laptop",
+    "description": "16-inch M2 Max, 32GB RAM (Loaner)",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c77",
+    "__v": 0
+  },
+  {
+    "name": "MacBook Pro #02",
+    "type": "Laptop",
+    "description": "14-inch M2 Pro, 16GB RAM (Loaner)",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c78",
+    "__v": 0
+  },
+  {
+    "name": "Dell XPS 15 #01",
+    "type": "Laptop",
+    "description": "Windows 11, i9, 32GB RAM",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c79",
+    "__v": 0
+  },
+  {
+    "name": "Dell XPS 13 #01",
+    "type": "Laptop",
+    "description": "Windows 11, i7, 16GB RAM",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7a",
+    "__v": 0
+  },
+  {
+    "name": "Sony Alpha Camera",
+    "type": "Equipment",
+    "description": "High-end DSLR for marketing shoots",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7b",
+    "__v": 0
+  },
+  {
+    "name": "Rode Podcaster Kit",
+    "type": "Equipment",
+    "description": "Microphone and boom arm setup",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7c",
+    "__v": 0
+  },
+  {
+    "name": "VR Headset (Quest 3)",
+    "type": "Equipment",
+    "description": "For VR testing and demos",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7d",
+    "__v": 0
+  },
+  {
+    "name": "Projector 4K (Portable)",
+    "type": "Projector",
+    "description": "High brightness portable projector",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7e",
+    "__v": 0
+  },
+  {
+    "name": "Projector (Fixed)",
+    "type": "Projector",
+    "description": "Standard 1080p projector",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c7f",
+    "__v": 0
+  },
+  {
+    "name": "Tesla Model 3 (Blue)",
+    "type": "Vehicle",
+    "description": "Electric sedan, 5 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c80",
+    "__v": 0
+  },
+  {
+    "name": "Tesla Model Y (White)",
+    "type": "Vehicle",
+    "description": "Electric SUV, 5 seats",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c81",
+    "__v": 0
+  },
+  {
+    "name": "Ford Transit Van",
+    "type": "Vehicle",
+    "description": "Cargo van for equipment transport",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c82",
+    "__v": 0
+  },
+  {
+    "name": "Toyota Camry",
+    "type": "Vehicle",
+    "description": "Standard sedan for client visits",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c83",
+    "__v": 0
+  },
+  {
+    "name": "Honda CR-V",
+    "type": "Vehicle",
+    "description": "Compact SUV for team travel",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c84",
+    "__v": 0
+  },
+  {
+    "name": "Standing Desk (Flex)",
+    "type": "Equipment",
+    "description": "Portable standing desk converter",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c85",
+    "__v": 0
+  },
+  {
+    "name": "Wacom Tablet",
+    "type": "Equipment",
+    "description": "Graphics tablet for designers",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c86",
+    "__v": 0
+  },
+  {
+    "name": "5G Hotspot #1",
+    "type": "Equipment",
+    "description": "High-speed mobile internet unit",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c87",
+    "__v": 0
+  },
+  {
+    "name": "5G Hotspot #2",
+    "type": "Equipment",
+    "description": "High-speed mobile internet unit",
+    "createdAt": "2026-01-31T19:31:45.237Z",
+    "_id": "697e58a124f480d2443a5c88",
+    "__v": 0
+  }
+]
