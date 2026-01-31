@@ -17,14 +17,18 @@ A modern, full-stack resource allocation system with Role-Based Access Control (
 
 ## ✨ Key Features
 
-- **🔐 Authentication & Authorization**: Secure JWT-based login with Admin and User roles.
-- **🎨 Modern UI**: Beautiful Glassmorphism design with dynamic gradients and dark/light mode.
+- **🔐 Authentication & Authorization**: Secure JWT-based login with Admin and User roles (Web & Mobile).
+- **🎨 Modern UI**: 
+    - **Web**: Beautiful Glassmorphism design with dynamic gradients.
+    - **Mobile**: Animated Floating Backgrounds and native glass effects.
 - **📊 Admin Dashboard**:
     - Real-time statistics (Total Resources, Active Allocations, etc.)
     - Allocation approval workflow (Approve/Reject requests).
     - User Management (Create, Delete, Block users).
 - **📅 Resource Management**: Create resources (Rooms, Equipment) and prevent double-booking with conflict detection.
-- **📱 Responsive Design**: Fully responsive layout for mobile and desktop.
+- **📱 Platforms**:
+    - **Web App**: Responsive React application.
+    - **Mobile App**: Featured-packed React Native (Expo) app for iOS/Android.
 
 ---
 
@@ -33,21 +37,15 @@ A modern, full-stack resource allocation system with Role-Based Access Control (
 ```
 SmartAlloc/
 ├── server/                 # Backend API (Node.js/Express)
-│   ├── controllers/        # Business logic (Auth, Allocations, Resources)
-│   ├── models/             # Mongoose schemas (User, Resource, Allocation)
-│   ├── routes/             # API endpoints
-│   ├── database/           # DB init scripts & CREDENTIALS
-│   └── server.js           # Entry point
-│
-├── client/                 # Frontend App (React + Vite)
+│   ├── ...
+├── client/                 # Frontend Web App (React + Vite)
+│   ├── ...
+├── mobile/                 # Mobile App (React Native + Expo) 👈 [NEW]
 │   ├── src/
-│   │   ├── admin/          # Admin-specific pages
-│   │   ├── components/     # UI Components (Navbar, Sidebar, Modal)
-│   │   ├── context/        # Auth Context
-│   │   ├── pages/          # Public pages (Login, Dashboard)
-│   │   └── styles/         # Global CSS & Variables
-│   └── README.md           # Basic frontend docs
-│
+│   │   ├── screens/        # Native Screens (Dashboard, Login, Lists)
+│   │   ├── navigation/     # Stack Navigator
+│   │   └── components/     # Native Components (AnimatedBackground)
+│   └── README.md           # Mobile-specific docs
 └── README.md               # Main documentation
 ```
 
@@ -68,13 +66,21 @@ npm start
 ```
 *Backend runs on `http://localhost:5000`*
 
-### 3. Setup Frontend
+### 3. Setup Frontend (Web)
 ```bash
 cd client
 npm install
 npm start
 ```
 *Frontend runs on `http://localhost:3000`*
+
+### 4. Setup Mobile App
+```bash
+cd mobile
+npm install
+npx expo start
+```
+*Scan the QR code with Expo Go app.*
 
 ---
 
@@ -124,5 +130,5 @@ The app includes a sophisticated theme system:
 ---
 
 <div align="center">
-<b>Made by SmartAlloc Team</b>
+<b>Made by pawan1812</b>
 </div>

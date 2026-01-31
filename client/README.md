@@ -1,6 +1,6 @@
-# SmartAlloc Frontend
-
-The React frontend for the SmartAlloc system, featuring a modern Glassmorphism UI and Role-Based Access Control.
+# SmartAlloc Web Client
+ 
+The React web frontend for the SmartAlloc system, featuring a modern Glassmorphism UI and Role-Based Access Control.
 
 ## 📁 Key Directories
 

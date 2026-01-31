@@ -1,6 +1,6 @@
 # SmartAlloc Backend
 
-Node.js/Express API handling authentication, resource management, and complex scheduling logic.
+Node.js/Express API handling authentication, resource management, and complex scheduling logic for both **Web** and **Mobile** clients.
 
 ## 📁 Key Modules
 
