@@ -8,6 +8,7 @@ import { AuthContext } from '../context/AuthContext';
 import { API_URL } from '../config';
 import { theme } from '../styles/theme';
 
+
 export default function AddResourceScreen({ navigation }) {
     const { token } = useContext(AuthContext);
     const [name, setName] = useState('');
