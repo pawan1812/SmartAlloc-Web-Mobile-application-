@@ -15,6 +15,7 @@ A modern, full-stack resource allocation system with Role-Based Access Control (
 
 ---
 
+
 ## ✨ Key Features
 
 - **🔐 Authentication & Authorization**: Secure JWT-based login with Admin and User roles (Web & Mobile).
