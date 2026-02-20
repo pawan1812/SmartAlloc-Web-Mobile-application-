@@ -6,6 +6,7 @@ The official mobile companion for the SmartAlloc resource management system. Bui
 
 - **🔐 Secure Authentication**: JWT-based login with persistent storage.
 - **🎨 Modern Design**: Beautiful animated gradient background (`Deep Blue` <-> `Indigo`) and glassmorphism cards.
+
 - **📊 Interactive Dashboard**:
     - **Admins**: View pending requests and user stats.
     - **Users**: Quick access to "My Requests" and schedule.

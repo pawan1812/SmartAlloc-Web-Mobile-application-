@@ -5,6 +5,7 @@ Node.js/Express API handling authentication, resource management, and complex sc
 ## 📁 Key Modules
 
 ```
+
 server/
 ├── controllers/
 │   ├── authController.js      # Login logic
